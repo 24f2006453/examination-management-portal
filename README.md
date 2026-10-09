@@ -1,2 +1,2 @@
 # examination-management-portal
-A web application to handle exams
+A web application to manage examinations
